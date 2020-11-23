@@ -6,10 +6,11 @@
 <body>
 
 	the student is confirmed: ${param.firstName} ${param.lastName} 
+	
+<br/><br/>
+	
+	The student's favorite programming language: ${param.favoriteLanguage}
 
-	<br/><br/>
-	
-	
 </body>
 
 
